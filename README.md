@@ -1,11 +1,10 @@
-<!-- Header Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # 🌠 About Me
-<h5 align="center"><font face="Arial">Eu sou Gabriel, um SRE | DevOps enginner apaixonado por criar soluções eficientes e automatizar processos desafiadores enquanto me aprofundo no código com paixão pela construção de sistemas resilientes e eficientes.Com uma sólida experiência como Engenheiro SRE (Site Reliability Engineer) e especializado em práticas DevOps, Acredito que a eficiência e a confiabilidade são fundamentais para o sucesso de qualquer projeto, e é por isso que estou constantemente buscando maneiras de otimizar e aprimorar as operações de desenvolvimento..</font></h5>
+<h5 align="center"><font face="Arial">
+I'm Gabriel, an SRE | DevOps Engineer passionate about creating efficient solutions and automating challenging processes while delving deep into code with a passion for building resilient and efficient systems. With solid experience as an SRE Engineer (Site Reliability Engineer) and specializing in DevOps practices, I believe that efficiency and reliability are critical to the success of any project, which is why I am constantly looking for ways to improve and improve development operations.</strong></font></h5>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <div align="center">
   <a href="https://github.com/Alves0611">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
@@ -29,9 +28,7 @@
   ![Github](https://img.shields.io/badge/-github-010101?style=for-the-badge&logo=github&Color=black)&nbsp;
   
 
-##
-
-🔗 Social Links
+## 🔗 Social Links
   <div> 
   <a href="https://www.instagram.com/gzinn7/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
@@ -44,7 +41,7 @@
   <a href="https://web.whatsapp.com/send?l=en&phone=+55 11956949234" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-</div>          
+</div>
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
