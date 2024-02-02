@@ -2,21 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # 🌠 About Me
-<h5 align="center"><font face="Arial">Eu sou Gabriel, um SRE | DevOps enginner apaixonado por criar soluções eficientes e automatizar processos desafiadores enquanto me aprofundo no código com paixão pela construção de sistemas resilientes e eficientes.Com uma sólida experiência como Engenheiro SRE (Site Reliability Engineer) e especializado em práticas DevOps, Acredito que a eficiência e a confiabilidade são fundamentais para o sucesso de qualquer projeto, e é por isso que estou constantemente buscando maneiras de otimizar e aprimorar as operações de desenvolvimento..
-
-
-
-
-</font></h5>
+<h5 align="center"><font face="Arial">Eu sou Gabriel, um SRE | DevOps enginner apaixonado por criar soluções eficientes e automatizar processos desafiadores enquanto me aprofundo no código com paixão pela construção de sistemas resilientes e eficientes.Com uma sólida experiência como Engenheiro SRE (Site Reliability Engineer) e especializado em práticas DevOps, Acredito que a eficiência e a confiabilidade são fundamentais para o sucesso de qualquer projeto, e é por isso que estou constantemente buscando maneiras de otimizar e aprimorar as operações de desenvolvimento..</font></h5>
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 <div align="center">
   <a href="https://github.com/Alves0611">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alves0611&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<!-- Technologies Section -->
 ## 🧰 Toolkit:
   
   ![Terraform](https://img.shields.io/badge/-Terraform-010101?style=for-the-badge&logo=terraform&Color=black)&nbsp;
