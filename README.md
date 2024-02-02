@@ -12,7 +12,6 @@
 ##
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <div align="center">
   <a href="https://github.com/Alves0611">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
