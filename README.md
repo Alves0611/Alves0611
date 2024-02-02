@@ -6,14 +6,13 @@ I'm Gabriel, an SRE | DevOps Engineer passionate about creating efficient soluti
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<div>
+## ⚙️ &nbsp;GitHub Analytics
+<div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alves0611&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### 🧰 Toolkit:
-  
+## 🧰 Toolkit:
   ![Terraform](https://img.shields.io/badge/-Terraform-010101?style=for-the-badge&logo=terraform&Color=black)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-010101?style=for-the-badge&logo=docker&Color=black)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-010101?style=for-the-badge&logo=kubernetes&Color=black)&nbsp;
