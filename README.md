@@ -6,9 +6,9 @@ I'm Gabriel, an SRE | DevOps Engineer passionate about creating efficient soluti
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <a href="https://github.com/Alves0611">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alves0611&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/n0vaesz">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=n0vaesz&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n0vaesz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 🧰 Toolkit:
