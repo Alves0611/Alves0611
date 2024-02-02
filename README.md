@@ -4,11 +4,12 @@
 <h5 align="center"><font face="Arial">
 I'm Gabriel, an SRE | DevOps Engineer passionate about creating efficient solutions and automating challenging processes while delving deep into code with a passion for building resilient and efficient systems. With solid experience as an SRE Engineer (Site Reliability Engineer) and specializing in DevOps practices, I believe that efficiency and reliability are critical to the success of any project, which is why I am constantly looking for ways to improve and improve development operations.</strong></font></h5>
 
-## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/Alves0611">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alves0611&layout=compact&langs_count=7&theme=dark"/>
+##
+
+
+<div>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alves0611&show_icons=true&theme=dark&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alves0611&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 🧰 Toolkit:
