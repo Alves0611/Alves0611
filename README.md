@@ -9,8 +9,6 @@
 
 </font></h5>
 
-##
-
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/Alves0611">
