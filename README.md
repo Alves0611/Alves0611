@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 <h5 align="center"><font face="Arial">
-I'm Gabriel, an SRE | DevOps Engineer passionate about creating efficient solutions and automating challenging processes while delving deep into code with a passion for building resilient and efficient systems. With solid experience as an SRE Engineer (Site Reliability Engineer) and specializing in DevOps practices, I believe that efficiency and reliability are critical to the success of any project, which is why I am constantly looking for ways to improve and improve development operations.</strong></font></h5>
+I'm Gabriel, an SRE | DevOps Engineer, passionate about challenges involving the creation of intelligent solutions and the automation of complex processes. My journey as an SRE Engineer has provided me with a unique perspective on the importance of efficiency, automation, and reliability in projects. Specialized in DevOps practices, I am always exploring ways to optimize development operations. I love coding in different stacks in my free time, providing me with a comprehensive understanding to contribute in all phases of project lifecycle.</strong></font></h5>
 
 
 
