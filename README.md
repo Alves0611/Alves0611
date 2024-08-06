@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 <h5 align="center"><font face="Arial">
-I am Gabriel, a DevOps/SRE Engineer passionate about creating intelligent solutions and automating complex processes. I have expertise in infrastructure as code, CI/CD, FinOps, container orchestration, and software development.
+I am Gabriel, a DevOps/SRE Engineer passionate about creating intelligent solutions and automating complex processes. I have expertise in infrastructure as code, CI/CD, FinOps, container orchestration, APM tools, and software development.
 
 </strong></font></h5>
 
