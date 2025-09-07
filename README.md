@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Gabriel+Alves+%F0%9F%9A%80;DevOps+%26+SRE+Engineer+%F0%9F%92%BB;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Alves&fontSize=42&fontAlignY=35&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2&height=200&section=header&text=Gabriel%20Alves&fontSize=42&fontAlignY=35&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=55&descAlign=center" />
 
 </div>
 
@@ -72,18 +72,28 @@
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
   ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
   
-  ### 💻 Programming Languages
+  ### 💻 Programming & Scripting
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
-  ### 🗄️ Databases & Monitoring
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ### 🔧 Configuration Management & IaC
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+  ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+  ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+  ![Consul](https://img.shields.io/badge/Consul-F24C53?style=for-the-badge&logo=consul&logoColor=white)
+  
+  ### 📊 Monitoring & Observability
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+  ![Jaeger](https://img.shields.io/badge/Jaeger-000000?style=for-the-badge&logo=jaeger&logoColor=white)
+  ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+  
+  ### 🗄️ Databases & Storage
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![MinIO](https://img.shields.io/badge/MinIO-000000?style=for-the-badge&logo=minio&logoColor=white)
   
   ### 🖥️ Operating Systems
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -162,7 +172,7 @@
   
   ![Snake animation](https://github.com/Alves0611/Alves0611/blob/output/github-contribution-grid-snake.svg)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2&height=100&section=footer" />
   
 </div>
 
