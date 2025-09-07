@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Gabriel+Alves+%F0%9F%9A%80;DevOps+%26+SRE+Engineer+%F0%9F%92%BB;Building+the+Future+with+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2&height=200&section=header&text=Gabriel%20Alves&fontSize=42&fontAlignY=35&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&customColorList=1,2,3&height=200&section=header&text=Gabriel%20Alves&fontSize=42&fontAlignY=35&desc=DevOps%20%7C%20SRE%20%7C%20Cloud%20Engineer&descAlignY=55&descAlign=center" />
 
 </div>
 
@@ -172,7 +172,7 @@
   
   ![Snake animation](https://github.com/Alves0611/Alves0611/blob/output/github-contribution-grid-snake.svg)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&customColorList=0,1,2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&customColorList=1,2,3&height=100&section=footer" />
   
 </div>
 
