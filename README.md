@@ -36,6 +36,7 @@ I am Gabriel, a DevOps/SRE Engineer focused on building resilient, scalable, and
   ![Ansible](https://img.shields.io/badge/-ansible-010101?style=for-the-badge&logo=ansible&Color=black)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-010101?style=for-the-badge&logo=docker&Color=black)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-010101?style=for-the-badge&logo=python&Color=black)&nbsp;
+  ![Bash](https://img.shields.io/badge/-Bash-010101?style=for-the-badge&logo=gnu-bash&Color=black)&nbsp;
   ![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)&nbsp;
   ![Git](https://img.shields.io/badge/-git-010101?style=for-the-badge&logo=git&Color=black)&nbsp;
   ![Github](https://img.shields.io/badge/-github-010101?style=for-the-badge&logo=github&Color=black)&nbsp;
@@ -47,10 +48,6 @@ I am Gabriel, a DevOps/SRE Engineer focused on building resilient, scalable, and
 
 ## 🔗 Social Links
   <div> 
-  <a href="https://www.instagram.com/gzinn7/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-
   <a href="https://www.linkedin.com/in/gabrielalvesss/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
