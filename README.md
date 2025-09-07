@@ -2,16 +2,16 @@
 
 ## 🚀 About Me
 <h5 align="center"><font face="Arial">
-I am Gabriel, a DevOps/SRE Engineer passionate about creating intelligent solutions and automating complex processes. I have expertise in infrastructure as code, CI/CD, FinOps, container orchestration, APM tools, and software development.
+I am Gabriel, a DevOps/SRE Engineer focused on building resilient, scalable, and secure cloud-native systems. I specialize in modern infrastructure automation, observability, and platform engineering to enable high-velocity software delivery.
 
 </strong></font></h5>
 
 <div align="center">
   
-  🚀 **DevOps/SRE Engineer** with expertise in **Infrastructure as Code**, **CI/CD**, **FinOps**, and **Container Orchestration**  
-  🎯 Passionate about **automation**, **monitoring**, and **scalable solutions**  
-  💡 Always learning and exploring new technologies to solve complex problems  
-  🌟 Building robust, efficient, and cost-effective cloud infrastructures  
+  🚀 **Platform Engineer** specializing in **Cloud-Native Infrastructure**, **GitOps**, and **Site Reliability Engineering**  
+  🎯 Expert in **Kubernetes orchestration**, **observability platforms**, and **infrastructure automation**  
+  💡 Building **self-healing systems** with **AI-driven monitoring** and **predictive scaling**  
+  🌟 Delivering **zero-downtime deployments** and **cost-optimized cloud architectures**  
 
 </div>
 
@@ -40,10 +40,10 @@ I am Gabriel, a DevOps/SRE Engineer passionate about creating intelligent soluti
   ![Linux](https://img.shields.io/badge/-linux-010101?style=for-the-badge&logo=linux&Color=black)&nbsp;
   ![Git](https://img.shields.io/badge/-git-010101?style=for-the-badge&logo=git&Color=black)&nbsp;
   ![Github](https://img.shields.io/badge/-github-010101?style=for-the-badge&logo=github&Color=black)&nbsp;
-  ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&Color=white)&nbsp;
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&Color=white)&nbsp;
-  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&Color=white)&nbsp;
-  ![Crossplane](https://img.shields.io/badge/-Crossplane-0B5AA7?style=for-the-badge&logo=crossplane&Color=white)&nbsp;
+  ![Datadog](https://img.shields.io/badge/-Datadog-010101?style=for-the-badge&logo=datadog&Color=black)&nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-010101?style=for-the-badge&logo=rabbitmq&Color=black)&nbsp;
+  ![ArgoCD](https://img.shields.io/badge/-ArgoCD-010101?style=for-the-badge&logo=argo&Color=black)&nbsp;
+  ![Crossplane](https://img.shields.io/badge/-Crossplane-010101?style=for-the-badge&logo=crossplane&Color=black)&nbsp;
   
 
 ## 🔗 Social Links
