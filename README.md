@@ -26,10 +26,10 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
 ![Vault](https://img.shields.io/badge/Vault-0D1117?style=flat-square&logo=vault&logoColor=D4AF37)
 ![Trivy](https://img.shields.io/badge/Trivy-0D1117?style=flat-square&logo=trivy&logoColor=D4AF37)
-![SonarQube](https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqube&logoColor=D4AF37)
+![SonarQube](https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqubeserver&logoColor=D4AF37)
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=D4AF37)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=D4AF37)
-![Python CDK](https://img.shields.io/badge/Python_CDK-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
 
 ---
 
