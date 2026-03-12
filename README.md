@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&repeat=true&width=900&lines=Building+resilient+platforms+for+modern+engineering+teams;Kubernetes+%7C+GitOps+%7C+Observability+%7C+Infrastructure+as+Code;AIOps+%7C+Developer+Platforms+%7C+Automation+%7C+Cloud+Operations" alt="Typing SVG" />
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gabriel-alves.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabrielalvesss/)
-[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Alves0611)
-
 </div>
 
 ---
@@ -44,51 +38,8 @@ A **Platform Engineer / SRE** focused on cloud-native infrastructure, internal p
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=D4AF37)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=D4AF37)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=D4AF37)
-![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=D4AF37)
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logoColor=D4AF37)
-![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logoColor=D4AF37)
-![AI_Agents](https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&logoColor=D4AF37)
 
 </div>
-
----
-
-### 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[AIOps Observability Stack](https://github.com/Alves0611/aiops-observability)**  
-Cloud-native observability stack on EKS with AI-assisted operational workflows.  
-`EKS` `Terraform` `Prometheus` `Grafana` `Loki` `AIOps`
-
-</td>
-<td width="50%">
-
-**[EKS Production-Ready Module](https://github.com/Alves0611/terraform-aws-eks)**  
-Reusable Terraform module for production-grade EKS environments.  
-`Terraform` `EKS` `Kubernetes` `Helm` `AWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[E-commerce Microservices](https://github.com/Alves0611/NotSoSimpleEcommerce)**  
-Microservices architecture with Kubernetes, observability, and CI/CD.  
-`Microservices` `Kubernetes` `Terraform` `Docker`
-
-</td>
-<td width="50%">
-
-**[ECS Fargate Infrastructure](https://github.com/Alves0611/AWS-ECS-Fargate)**  
-Modular AWS infrastructure for containerized workloads using ECS Fargate.  
-`ECS` `Fargate` `Terraform` `AWS`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -106,6 +57,12 @@ Modular AWS infrastructure for containerized workloads using ECS Fargate.
 ---
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gabriel-alves.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabrielalvesss/)
+[![GitHub](https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Alves0611)
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Alves0611&color=D4AF37&style=flat-square&label=Profile+Views" />
 
