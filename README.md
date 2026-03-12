@@ -14,6 +14,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
+![Istio](https://img.shields.io/badge/Istio-0D1117?style=flat-square&logo=istio&logoColor=D4AF37)
 
 </td>
 <td valign="top" width="33%">
@@ -43,6 +44,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=D4AF37)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=D4AF37)
+![Python CDK](https://img.shields.io/badge/Python_CDK-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
 
 </td>
 <td valign="top">
@@ -53,6 +55,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=D4AF37)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=D4AF37)
 
 </td>
 <td valign="top">
