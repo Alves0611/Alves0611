@@ -8,7 +8,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 <table>
 <tr>
-<td valign="top" width="15%">
+<td valign="top" width="25%">
 
 **Orchestration**
 
@@ -16,7 +16,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 
 </td>
-<td valign="top" width="55%">
+<td valign="top" width="40%">
 
 **Developer Platform**
 
@@ -26,7 +26,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Vault](https://img.shields.io/badge/Vault-0D1117?style=flat-square&logo=vault&logoColor=D4AF37)
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="35%">
 
 **AI Tooling**
 
