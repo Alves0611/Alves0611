@@ -18,7 +18,7 @@ A **Platform Engineer / SRE** focused on cloud-native infrastructure, internal p
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=D4AF37)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=D4AF37)
 ![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=D4AF37)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D4AF37)
