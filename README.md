@@ -8,7 +8,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="30%">
 
 **Containers & Orchestration**
 
@@ -17,7 +17,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 
 </td>
-<td valign="top">
+<td valign="top" width="45%">
 
 **Developer Platform & Languages**
 
@@ -28,7 +28,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
 
 </td>
-<td valign="top">
+<td valign="top" width="25%">
 
 **AI Tooling**
 
@@ -49,14 +49,6 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 </td>
 <td valign="top">
 
-**GitOps**
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
-![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
-
-</td>
-<td valign="top">
-
 **Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=D4AF37)
@@ -64,6 +56,14 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=D4AF37)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=D4AF37)
+
+</td>
+<td valign="top">
+
+**GitOps**
+
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
+![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
 
 </td>
 </tr>
