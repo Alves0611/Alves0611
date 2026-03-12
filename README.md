@@ -8,8 +8,42 @@
  
 Building intelligent observability platforms and cloud-native infrastructure. My focus is **AIOps** — systems that don't just collect telemetry, they reason about it.
  
-**Stack I live in:**
-`Kubernetes` `Terraform` `ArgoCD` `Prometheus` `Grafana` `Loki` `Datadog` `OpenTelemetry` `Crossplane` `Backstage` `AWS` `Azure` `Python` `HCL`
+---
+ 
+**Cloud**
+ 
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=D4AF37)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=D4AF37)
+ 
+**Containers & Orchestration**
+ 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D4AF37)
+![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
+ 
+**IaC & GitOps**
+ 
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=D4AF37)
+![Crossplane](https://img.shields.io/badge/Crossplane-0D1117?style=flat-square&logo=crossplane&logoColor=D4AF37)
+![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=D4AF37)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
+![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
+ 
+**Observability**
+ 
+![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=D4AF37)
+![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
+![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
+![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=D4AF37)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=D4AF37)
+ 
+**Developer Platform & Languages**
+ 
+![Backstage](https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=D4AF37)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=D4AF37)
  
 ---
  
@@ -24,7 +58,6 @@ Building intelligent observability platforms and cloud-native infrastructure. My
  
 <div align="center">
  
-[![Portfolio](https://img.shields.io/badge/gabriel--alves.dev-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gabriel-alves.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabrielalvesss/)
  
 <br/>
@@ -32,3 +65,4 @@ Building intelligent observability platforms and cloud-native infrastructure. My
 *"Great platforms are invisible when everything works — and invaluable when it matters most."*
  
 </div>
+ 
