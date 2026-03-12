@@ -8,7 +8,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 <table>
 <tr>
-<td valign="top" width="20%">
+<td valign="top" width="15%">
 
 **Orchestration**
 
@@ -16,7 +16,7 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 **Developer Platform**
 
@@ -53,7 +53,6 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=D4AF37)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=D4AF37)
 
 </td>
 <td valign="top">
