@@ -8,24 +8,22 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 <table>
 <tr>
-<td valign="top" width="30%">
+<td valign="top" width="20%">
 
-**Containers & Orchestration**
+**Orchestration**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D4AF37)
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
-**Developer Platform & Languages**
+**Developer Platform**
 
 ![Backstage](https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=D4AF37)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=D4AF37)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=D4AF37)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
+![Vault](https://img.shields.io/badge/Vault-0D1117?style=flat-square&logo=vault&logoColor=D4AF37)
 
 </td>
 <td valign="top" width="25%">
