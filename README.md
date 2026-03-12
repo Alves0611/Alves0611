@@ -6,68 +6,26 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Orchestration**
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 ![Istio](https://img.shields.io/badge/Istio-0D1117?style=flat-square&logo=istio&logoColor=D4AF37)
-
-</td>
-<td valign="top" width="33%">
-
-**Developer Platform**
-
-![Backstage](https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=D4AF37)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
-![Vault](https://img.shields.io/badge/Vault-0D1117?style=flat-square&logo=vault&logoColor=D4AF37)
-
-</td>
-<td valign="top" width="33%">
-
-**AI Tooling**
-
-![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D4AF37)
-![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=D4AF37)
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=D4AF37)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**IaC**
-
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=D4AF37)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=D4AF37)
 ![Python CDK](https://img.shields.io/badge/Python_CDK-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
-
-</td>
-<td valign="top">
-
-**Observability**
-
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
+![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
 ![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=D4AF37)
 ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Loki](https://img.shields.io/badge/Loki-0D1117?style=flat-square&logo=grafana&logoColor=D4AF37)
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=D4AF37)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=D4AF37)
-
-</td>
-<td valign="top">
-
-**GitOps**
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
-![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
-
-</td>
-</tr>
-</table>
+![Backstage](https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=D4AF37)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
+![Vault](https://img.shields.io/badge/Vault-0D1117?style=flat-square&logo=vault&logoColor=D4AF37)
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D4AF37)
+![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=D4AF37)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=D4AF37)
 
 ---
 
@@ -80,15 +38,9 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alves0611&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabrielalvesss/)
-
-<br/>
 
 *"Great platforms are invisible when everything works — and invaluable when it matters most."*
 
