@@ -17,10 +17,8 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=D4AF37)
 ![Helm](https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=D4AF37)
 ![Istio](https://img.shields.io/badge/Istio-0D1117?style=flat-square&logo=istio&logoColor=D4AF37)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=D4AF37)
 ![Backstage](https://img.shields.io/badge/Backstage-0D1117?style=flat-square&logo=backstage&logoColor=D4AF37)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=D4AF37)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=D4AF37)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
 ![Argo Rollouts](https://img.shields.io/badge/Argo_Rollouts-0D1117?style=flat-square&logo=argo&logoColor=D4AF37)
@@ -29,7 +27,6 @@ SRE & Platform Engineer obsessed with removing toil. I design scalable, cost-eff
 ![SonarQube](https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqubeserver&logoColor=D4AF37)
 ![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=D4AF37)
 ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=D4AF37)
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=D4AF37)
 
 ---
 
